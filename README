@@ -1,0 +1,9 @@
+double round(double x, int n)
+
+引数
+x : 正の整数
+
+説明
+x を 10^n の位で四捨五入して返す
+
+
